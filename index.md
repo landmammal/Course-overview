@@ -1,15 +1,17 @@
 ---
 layout: default
 ---
-## Codeskools Coding Boot Camp - Online  (Ver 0.1)
 
-Missing something? Spot an issue? Have a suggestion? Please Contact us at RRodriguez@codeskools.com
+## FullStack Engineer (Ver 0.1)
+
+The curriculum covers the MERN stack and goes in depth into Javascript. We also provide different options for a second programming languages such as Python, C# and Java. The tools, techniques and habits taught in this course are the standard being used by developers in the industry as of 2020. 
 
 - - -
 
 ### [Unit 0 - Intros & Installation](00-Week)
 
 * [0.1 Your Why](00-Week/01-Day/01-Day-LessonPlan.md)
+
 - - -
 
 ### [Unit 1 - GIT, HTML, CSS ](01-Week)
@@ -200,3 +202,9 @@ Missing something? Spot an issue? Have a suggestion? Please Contact us at RRodri
 * [24.1 - Project](24-Week/01-Day/01-Day-LessonPlan.md)
 * [24.2 - Project](24-Week/02-Day/02-Day-LessonPlan.md)
 * [24.3 - Project](24-Week/03-Day/03-Day-LessonPlan.md)
+
+- - -
+
+## Contribute (Ver 0.1)
+
+Missing something? Spot an issue? Have a suggestion? Please Contact us at RRodriguez@codeskools.com
