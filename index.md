@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Codeskools Coding Boot Camp - Online  (Ver 0.1)
 
 Missing something? Spot an issue? Have a suggestion? Please create pull request.
