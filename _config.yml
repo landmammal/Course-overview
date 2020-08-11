@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-
+title: The title of your site
 description: Birds Eye View Of Our FullStack JS Program
 logo: /img/code_skool_logo.png
+show_downloads: true
