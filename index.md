@@ -9,7 +9,7 @@ Missing something? Spot an issue? Have a suggestion? Please Contact us at RRodri
 
 ### [Unit 0 - Intros & Installation](00-Week)
 
-* Your Why \| [Lesson Overview](00-Week/01-Day/01-Day-LessonPlan.md)
+* [0.1 Your Why](00-Week/01-Day/01-Day-LessonPlan.md)
 - - -
 
 ### [Unit 1 - GIT, HTML, CSS ](01-Week)
