@@ -4,7 +4,7 @@ layout: default
 
 ## FullStack Engineer (Ver 0.1)
 
-The curriculum covers the MERN stack and goes in depth into Javascript. We also provide different options for a second programming languages such as Python, C# and Java. The tools, techniques and habits taught in this course are the standard being used by developers in the industry as of 2020. 
+The curriculum covers the MERN stack and goes in depth into Javascript. We also provide different options for a second programming languages such as Python, C# and Java. The tools, techniques and technologies taught in this course are contemporary to what proffesional developers are using on the job as of 2020. 
 
 - - -
 
