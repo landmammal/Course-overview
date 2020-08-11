@@ -3,13 +3,13 @@ layout: default
 ---
 ## Codeskools Coding Boot Camp - Online  (Ver 0.1)
 
-Missing something? Spot an issue? Have a suggestion? Please create pull request.
+Missing something? Spot an issue? Have a suggestion? Please Contact us at RRodriguez@codeskools.com
 
 - - -
 
-### [Unit 0 - Your Why](00-Week)
+### [Unit 0 - Intros & Installation](00-Week)
 
-* Set Up For Success \| [Lesson Overview]()
+* Your Why \| [Lesson Overview](00-Week/01-Day/01-Day-LessonPlan.md)
 - - -
 
 ### [Unit 1 - GIT, HTML, CSS ](01-Week)
