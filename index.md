@@ -8,13 +8,13 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 0 - Intros & Installation](00-Week)
+### [Unit 0 - Intros & Installation](comingsoon.md)
 
-* [0.1 Your Why]()
+* [0.1 Your Why](comingsoon.md)
 
 - - -
 
-### [Unit 1 - GIT, HTML, CSS ](01-Week)
+### [Unit 1 - GIT, HTML, CSS ](comingsoon.md)
 
 * [1.1 - Zen](comingsoon.md) 
 * [1.2 - Git HTML/CSS](comingsoon.md) 
@@ -22,7 +22,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 2 - CSS Library (Bootstrap)](02-Week)
+### [Unit 2 - CSS Library (Bootstrap)](comingsoon.md)
 
 * [2.1 - DO It  Live](comingsoon.md) 
 * [2.2 - CSS Hacks](comingsoon.md) 
@@ -30,7 +30,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 3 - JavaScript](03-Week)
+### [Unit 3 - JavaScript](comingsoon.md)
 
 * [3.1 - A Look At JavaScript](comingsoon.md 
 * [3.2 - JavaScript Twist](comingsoon.md 
@@ -38,7 +38,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 4 - Intro to JS Library's and Use](04-Week)
+### [Unit 4 - Intro to JS Library's and Use](comingsoon.md)
 
 * [4.1 - JS Library's](comingsoon.md 
 * [4.2 - jQuery World](comingsoon.md 
@@ -46,7 +46,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 5 - Timers Review](05-Week)
+### [Unit 5 - Timers Review](comingsoon.md)
 
 * [5.1 - JS Review](comingsoon.md 
 * [5.2 - JS Execution Context](comingsoon.md)
@@ -54,7 +54,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 6 - APIs & AJAX](06-Week)
+### [Unit 6 - APIs & AJAX](comingsoon.md)
 
 * [6.1 - API for That](comingsoon.md)
 * [6.2 - Advancing AJAX](comingsoon.md 
@@ -62,7 +62,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 7 - Intro to Storage](07-Week/)
+### [Unit 7 - Intro to Storage](07comingsoon.md)
 
 * [7.1 - The Trunk in the Browser](comingsoon.md)
 * [7.2 - Pay For Storage](comingsoon.md)
@@ -70,7 +70,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 8 - Lab API Week 1](08-Week)
+### [Unit 8 - Lab API Week 1](comingsoon.md)
 
 * [8.1 - Git Us On the Same Side](comingsoon.md 
 * [8.2 - Project](comingsoon.md)
@@ -78,7 +78,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 9 - Lab API Week 2 + Debug](09-Week)
+### [Unit 9 - Lab API Week 2 + Debug](comingsoon.md)
 
 * [9.1 - Stay Agile](comingsoon.md)
 * [9.2 - Pre-Flight](comingsoon.md)
@@ -86,7 +86,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 10 - Meet Node.JS](10-Week)
+### [Unit 10 - Meet Node.JS](comingsoon.md)
 
 * [10.1 - Runtime is what?](comingsoon.md 
 * [10.2 - Noob to node](comingsoon.md)
@@ -94,7 +94,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 11 - OOJ](11-Week)
+### [Unit 11 - OOJ](comingsoon.md)
 
 * [11.1 - This is an Object World](comingsoon.md)
 * [11.2 - The Object God](comingsoon.md)
@@ -102,7 +102,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 12 - Oh My My MySQL](12-Week)
+### [Unit 12 - Oh My My MySQL](comingsoon.md)
 
 * [12.1 - Stone Tablets](comingsoon.md)
 * [12.2 - Excuse My syntax](comingsoon.md)
@@ -110,7 +110,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 13 - Express Me](13-Week)
+### [Unit 13 - Express Me](comingsoon.md)
 
 * [13.1 -  Node Servers](comingsoon.md 
 * [13.2 - Express Train](comingsoon.md 
@@ -118,7 +118,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 14 - EJS Templating](14-Week)
+### [Unit 14 - EJS Templates](comingsoon.md)
 
 * [14.1 - View Engines](comingsoon.md)
 * [14.2 - Data Binding](comingsoon.md)
