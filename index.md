@@ -10,7 +10,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 0 - Intros & Installation](00-Week)
 
-* [0.1 Your Why](00-Week/01-Day/01-Day-LessonPlan.md)
+* [0.1 Your Why](comingsoon.md)
 
 - - -
 
