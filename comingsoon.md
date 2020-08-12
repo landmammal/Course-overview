@@ -5,7 +5,7 @@
 
 
 
--- hit<Enter>
+-hit<Enter>
 
 
 
