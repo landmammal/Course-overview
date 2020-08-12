@@ -4,7 +4,7 @@ layout: default
 
 ## FullStack Engineer (Ver 0.1)
 
-The curriculum covers the MERN stack and goes in depth into Javascript. We also provide different options for a second programming languages such as Python, C# and Java. The tools, techniques and technologies taught in this course are contemporary to what proffesional developers are using on the job as of 2020. 
+The curriculum covers the MERN stack and goes in depth into Javascript. We also provide different options for a second programming languages such as Python, C# and Java. The tools, techniques and technologies taught in this course are contemporary to what professional developers are using on the job as of 2020. 
 
 - - -
 
@@ -32,23 +32,23 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 3 - JavaScript](comingsoon.md)
 
-* [3.1 - A Look At JavaScript](comingsoon.md 
-* [3.2 - JavaScript Twist](comingsoon.md 
-* [3.3 - JavaScript Vikings](comingsoon.md 
+* [3.1 - A Look At JavaScript](comingsoon.md) 
+* [3.2 - JavaScript Twist](comingsoon.md) 
+* [3.3 - JavaScript Vikings](comingsoon.md) 
 
 - - -
 
 ### [Unit 4 - Intro to JS Library's and Use](comingsoon.md)
 
-* [4.1 - JS Library's](comingsoon.md 
-* [4.2 - jQuery World](comingsoon.md 
+* [4.1 - JS Library's](comingsoon.md) 
+* [4.2 - jQuery World](comingsoon.md) 
 * [4.3 - Implementation](comingsoon.md)
 
 - - -
 
 ### [Unit 5 - Timers Review](comingsoon.md)
 
-* [5.1 - JS Review](comingsoon.md 
+* [5.1 - JS Review](comingsoon.md)
 * [5.2 - JS Execution Context](comingsoon.md)
 * [5.3 - JS Asynchronous Side](comingsoon.md)
 
@@ -57,7 +57,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 ### [Unit 6 - APIs & AJAX](comingsoon.md)
 
 * [6.1 - API for That](comingsoon.md)
-* [6.2 - Advancing AJAX](comingsoon.md 
+* [6.2 - Advancing AJAX](comingsoon.md) 
 * [6.3 - API Call Back](comingsoon.md)
 
 - - -
@@ -72,7 +72,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 8 - Lab API Week 1](comingsoon.md)
 
-* [8.1 - Git Us On the Same Side](comingsoon.md 
+* [8.1 - Git Us On the Same Side](comingsoon.md) 
 * [8.2 - Project](comingsoon.md)
 * [8.3 - Project](08-Week/03-Day/03-Day-LessonPlan.md)
 
@@ -88,7 +88,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 10 - Meet Node.JS](comingsoon.md)
 
-* [10.1 - Runtime is what?](comingsoon.md 
+* [10.1 - Runtime is what?](comingsoon.md) 
 * [10.2 - Noob to node](comingsoon.md)
 * [10.3 - Package yourself with NPM](comingsoon.md)
 
@@ -112,8 +112,8 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 13 - Express Me](comingsoon.md)
 
-* [13.1 -  Node Servers](comingsoon.md 
-* [13.2 - Express Train](comingsoon.md 
+* [13.1 - Node Servers](comingsoon.md)
+* [13.2 - Express Train](comingsoon.md) 
 * [13.3 - Surf's Up](comingsoon.md)
 
 - - -
@@ -136,8 +136,8 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 16 - Testing & Node/Express Project Week One](16-Week)
 
-* [16.1 - Linting and Testing](comingsoon.md 
-* [16.2 - Lean Start Up](comingsoon.md 
+* [16.1 - Linting and Testing](comingsoon.md)
+* [16.2 - Lean Start Up](comingsoon.md)
 * [16.3 - Project](comingsoon.md)
 
 - - -
@@ -152,7 +152,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 ### [Unit 18 - MongoDB](18-Week)
 
-* [18.1 - Masters of MongoDB](comingsoon.md 
+* [18.1 - Masters of MongoDB](comingsoon.md) 
 * [18.2 - Use Cases for DB Types](comingsoon.md)
 * [18.3 - Blockchain What? ](comingsoon.md)
 
@@ -161,22 +161,22 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 ### [Unit 19 - ReactJS](19-Week)
 
 * [19.1 - Reacting With React](comingsoon.md)
-* [19.2 - Components, and JSX](comingsoon.md 
-* [19.3 - Props, Lists, and State](comingsoon.md|
+* [19.2 - Components, and JSX](comingsoon.md) 
+* [19.3 - Props, Lists, and State](comingsoon.md)
 
 - - -
 
 ### [Unit 20 - React, MERN](20-Week)
 
 * [20.1 - Lets Glue It together](comingsoon.md)
-* [20.2 - MERN](comingsoon.md 
-* [20.3 - Final Projects](comingsoon.md 
+* [20.2 - MERN](comingsoon.md) 
+* [20.3 - Final Projects](comingsoon.md)
 
 - - -
 
 ### [Unit 21 - Java/Python/C#](21-Week)
 * [20.1 - Language Fundamental](comingsoon.md)
-* [20.2 - Under The Hood](comingsoon.md 
+* [20.2 - Under The Hood](comingsoon.md)
 * [20.3 - In The Wild](comingsoon.md)
 
 - - -
@@ -185,7 +185,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 * [22.1 - 6 steps to solve a problem](comingsoon.md)
 * [22.2 - Understand, Design & Write ALgorithm](comingsoon.md)
-* [22.3 - My Algo is better than Yours](comingsoon.md 
+* [22.3 - My Algo is better than Yours](comingsoon.md)
 
 - - -
 
