@@ -174,7 +174,7 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 
 - - -
 
-### [Unit 21 - Java/Python/C#](21-Week)
+### [Unit 21 - Python](21-Week)
 * [20.1 - Language Fundamental](comingsoon.md)
 * [20.2 - Under The Hood](comingsoon.md)
 * [20.3 - In The Wild](comingsoon.md)
