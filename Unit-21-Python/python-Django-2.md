@@ -4,7 +4,8 @@
 
 The purpose of this lesson is familiarize students with the basics of Django and introduce students to Django's `Form` class; generic views; and best practices around sanitizing input and handling exceptions.
 
-`Activities: 5`
+Activities: 5
+
 
 #### Learning Objectives
 
@@ -17,6 +18,7 @@ The purpose of this lesson is familiarize students with the basics of Django and
 * Use static files in local development.
 
 * Refer to Django endpoints in templates with the `url` tag.
+
 
 #### Notes
 
