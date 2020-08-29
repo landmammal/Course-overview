@@ -1,22 +1,23 @@
-Overview
-The purpose of this lesson is familiarize students with the basics of Django and introduce students to Django's Form class; generic views; and best practices around sanitizing input and handling exceptions.
+## Python Django - Under The Hood
 
-Summary: Complete Activities 6-11 in Unit 21
+### Overview
 
-Instructor Priorities
-Today's Instructor Priorities coincide with Class Objectives.
+The purpose of this lesson is familiarize students with the basics of Django and introduce students to Django's `Form` class; generic views; and best practices around sanitizing input and handling exceptions.
 
-Students should be able to:
+`Activities: 5`
 
-Use Django's Form class to accept, validate, and persist user input.
+#### Learning Objectives
 
-Use generic views to quickly develop resource views.
+* Use Django's `Form` class to accept, validate, and persist user input.
 
-Use capture groups in URLs to build robust detail views.
+* Use generic views to quickly develop resource views.
 
-Use static files in local development.
+* Use capture groups in URLs to build robust detail views.
 
-Refer to Django endpoints in templates with the url tag.
+* Use static files in local development.
 
-Instructor Notes
-Today's lesson builds on the activity from the last lessons. Make sure to slack out the 07-Models/Solved to ensure a uniform starting point for today's activity.
+* Refer to Django endpoints in templates with the `url` tag.
+
+#### Notes
+
+* Today's lesson builds on the activity from the last lessons. 
