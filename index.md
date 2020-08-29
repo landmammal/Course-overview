@@ -175,9 +175,9 @@ The curriculum covers the MERN stack and goes in depth into Javascript. We also 
 - - -
 
 ### [Unit 21 - Python](21-Week)
-* [20.1 - Language Fundamental](python-Django.md)
-* [20.2 - Under The Hood](comingsoon.md)
-* [20.3 - In The Wild](comingsoon.md)
+* [20.1 - Language Fundamental](Unit-21-Python/python-Django-1.md)
+* [20.2 - Under The Hood](Unit-21-Python/python-Django-2.md)
+* [20.3 - In The Wild](Unit-21-Python/python-Django-3.md)
 
 - - -
 
