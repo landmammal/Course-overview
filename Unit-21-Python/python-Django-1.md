@@ -4,7 +4,8 @@
 
 The purpose of this lesson is familiarize students with the basics of Python.
 
-`Activities: 6`
+Activities: 6
+
 
 ##### Learning Objectives
 
